@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TimerApp</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="スタート" />
+    <string name="Start" />
+    <string name="リセット">リセット</string>
+    <string name="_00_00">00:00</string>
+</resources>
